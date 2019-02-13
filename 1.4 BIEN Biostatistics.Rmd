@@ -325,3 +325,7 @@ tail(OrangeCal_list)
 Before our next digital lab on Feb 22, choose one of the exercises above and complete it. 
 
 Also use this last coding exercise to obtain species lists for three counties in a state in the USA outside of New York. For example, you could start with the county where you attended high school. Or, you could use a county where you have vacationed in the past, or where you would like to visit. Also download data for two adjacent counties.
+
+Oh hey there.
+
+
